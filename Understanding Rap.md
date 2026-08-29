@@ -36,6 +36,6 @@
 -  Jab ek line ke aakhri shabd ya syllable agle line/verse ke aakhri shabd ke saath sound match kare — ise end rhyme kehte hain.
 
 - ex - Mai hu tera papa, kaise tujhe batau hu tera mai papa
-     - ab tu khol lifafa, dekh mera diodata 
+     - ab tu khol lifafa, dekh mera biodata 
 
 - https://www.youtube.com/watch?v=2Cfd2jG0W80
