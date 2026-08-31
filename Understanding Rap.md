@@ -41,5 +41,22 @@
 - https://www.youtube.com/watch?v=2Cfd2jG0W80
 
 
+
 ### Internal Rhyming
 
+- Jab ek hi line ke beech mein rhyming words ho toh ise internal rhyming kehte hain.
+- Yani end mein nahi, balki middle ya starting mein rhymes aa rhe ho.
+- Isse flow better lagti hai aur listener ko zyada engaging experience milta hai.
+
+- Example:
+  - "Baat karo sambhal kar, sambhal ke bolo baat" (baat-sambhal-bolo rhyming within one line)
+  - "Lamba hai ladder, padher padher badher" (ladder-padher-padher-badher — multiple rhymes in quick succession)
+
+- Internal rhyming aur alliteration dono mein flow create hoti hai but rhyming sounds match karte hain jabki alliteration starting sounds match karte hain.
+
+- Advanced technique: Rappers internal rhyming use karke dense bars banate hain jisme har shabd important hota hai aur rhythm strong hoti hai.
+
+
+### Block rhyming 
+
+- 
