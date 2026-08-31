@@ -59,4 +59,15 @@
 
 ### Block rhyming 
 
-- 
+- Block rhyming mein ek puri block ya section ke saath ek specific rhyme scheme follow hota hai.
+- Isme consecutive lines ya multiple lines mein same rhyme sounds repeat hote hain (aab aab pattern, aabb pattern, etc.).
+- Yeh internal rhyming se alag hai — block rhyming mein organized pattern hota hai, puri verse ya section mein consistent rhymes hote hain.
+
+- Example from Tokyo Drift Freestyle (2020):
+  - "Grave kari dig, **laggu** Undertaker"
+  - "**Ban** tu faker, aaja bhai **banidu** lekar"
+  - "**Son** tu hater, ban tu **chep** aur"
+  - "**Fun** tu dekh jabh aau tere maidaan mai **bamboo** lekar"
+  
+- Pattern: Har line mein ek rhyme scheme consistent rakhi gayi hai; listener ko rhythmic pattern clear dikhai deta hai.
+- Effect: Isse bars memorable aur catchy ban jate hain. Hook ya chorus mein block rhyming use hota hai. f
