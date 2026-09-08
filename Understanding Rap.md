@@ -381,4 +381,8 @@
 - **Don'ts**:
   - Copy mat karo — apna style develop karo
   - Perfect hone ka pressure mat lo — process hai
-  - Sirf fast rapping mat karo — flow aur meaning important hai
+  - Sirf fast rapping mat karo — flow aur meaning important hai  
+
+
+
+  * ______
